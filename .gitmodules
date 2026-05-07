@@ -1,0 +1,3 @@
+[submodule "proxy-bun"]
+	path = proxy-bun
+	url = git@github.com:MythEclipse/proxy-bun.git
